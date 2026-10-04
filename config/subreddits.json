@@ -1,0 +1,12 @@
+{
+  "subreddits": [
+    "ClaudeAI", "ChatGPT", "OpenAI", "LocalLLaMA", "AI_Agents", "mcp", "ChatGPTCoding",
+    "SideProject", "indiehackers", "vibecoding",
+    "Charlotte",
+    "personalfinance", "financialindependence",
+    "RealEstate", "Renters",
+    "simracing", "buildapc"
+  ],
+  "per_subreddit_limit": 25,
+  "listings": ["top_day", "new"]
+}
